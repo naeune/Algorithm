@@ -1,4 +1,4 @@
-package algorithm;
+package level1;
 
 public class Al_10718 {
 	  public static void main(String[] args) {
