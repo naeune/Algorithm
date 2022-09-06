@@ -18,7 +18,8 @@ public class Al_10950 {
 			B = sc.nextInt();
 			
 			System.out.println(A + B);
-		} 
+			sc.close();
+		}
 		
 	} 
 }
